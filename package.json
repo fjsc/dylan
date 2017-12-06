@@ -1,0 +1,11 @@
+{
+  "name": "dylan",
+  "version": "0.0.1",
+  "description": "Web component library",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
